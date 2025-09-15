@@ -4,7 +4,9 @@ This is a simple LCD (Liquid Crystal Display) library designed for LPC21XX serie
 
 Overview
 
-This library allows you to interface a standard character LCD with an LPC21XX microcontroller. The LCD is connected in 8-bit mode for full data transfer.
+This library allows you to interface a standard character LCD with an LPC21XX microcontroller. The LCD is connected in 8-bit mode for full data transfer. <br>
+
+Driver : Hitachi HD44780
 
 LCD to MCU Pin Configuration
 
